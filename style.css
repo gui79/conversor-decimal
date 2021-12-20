@@ -1,0 +1,41 @@
+body{
+	background-color: #820ad1;
+	margin: 0;
+	
+}
+
+.container{
+	width: 100vw;
+	height: 100vh;
+	background: #6a05ac;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.box{
+	width: 400px;
+	height: 400px;
+	background: #fff;
+	padding: 10px;
+}
+.legenda{
+	text-align: center;
+	color: #820ad1;
+}
+.form-label{
+	color:#820ad1 ;
+}
+.btn{
+    height:40px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    
+    left:50%;
+
+}
+.result{
+	margin-top: 50px;
+	size: 16px;
+}
